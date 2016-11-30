@@ -1,5 +1,4 @@
-package processEngine.input;
-
+package processEngine.service;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import processEngine.service.InputParser;
@@ -12,7 +11,7 @@ import static org.testng.Assert.assertEquals;
 /**
  * Created by Mohit on 11/29/2016.
  */
-public class InputTest {
+public class InputParserTest {
     private static InputParser inputParser;
     @BeforeClass
     public static void setup(){
