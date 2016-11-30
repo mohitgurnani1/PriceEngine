@@ -3,9 +3,6 @@ package processEngine.domain;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Mohit on 11/29/2016.
- */
 public class Vendor {
 
     private int id;

@@ -1,15 +1,11 @@
 package processEngine.domain;
 
-/**
- * Created by Mohit on 11/29/2016.
- */
 public class Product implements Cloneable{
 
     private int id;
     private String name;   //doubt
     private char demand;
     private char supply;
-    private double price;
 
     public Product(){}
 
@@ -19,7 +15,7 @@ public class Product implements Cloneable{
         this.demand=demand;
         this.supply=supply;
     }
-
+/*
     public Product getClone()  {
         Product product=null;
         try {
@@ -28,7 +24,7 @@ public class Product implements Cloneable{
             e.printStackTrace();
         }
         return product;
-    }
+    }*/
 
     public int getId() {
         return id;
@@ -54,11 +50,4 @@ public class Product implements Cloneable{
         this.supply = supply;
     }
 
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
 }

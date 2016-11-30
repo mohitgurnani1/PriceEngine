@@ -1,8 +1,8 @@
 package processEngine.service;
 
-import processEngine.domain.Vendor;
+import processEngine.domain.PriceQuotation;
 
-import java.util.Set;
+import java.util.List;
 
 /**
  * Created by Mohit on 11/29/2016.
@@ -11,6 +11,6 @@ public interface InputParser {
 
 
 
-    public Set<Vendor> parseInput(String input);
+    public List<PriceQuotation> parseInput(String input);
 
 }

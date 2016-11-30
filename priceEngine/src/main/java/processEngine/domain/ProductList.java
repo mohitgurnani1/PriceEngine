@@ -3,9 +3,6 @@ package processEngine.domain;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Mohit on 11/29/2016.
- */
 public class ProductList {
     private static List<Product> products=new ArrayList<Product>();
     public static void addProduct(int productId,String productName, char demand, char supply ){

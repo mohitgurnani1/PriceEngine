@@ -1,19 +1,13 @@
 package processEngine.input;
 
-import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import processEngine.domain.Product;
+import processEngine.domain.PriceQuotation;
 import processEngine.domain.ProductList;
-import processEngine.domain.Vendor;
 import processEngine.service.InputParser;
-import processEngine.service.PriceGenerator;
 import processEngine.service.impl.InputParserImpl;
-import processEngine.service.impl.PriceGeneratorImpl;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 import static org.testng.Assert.assertEquals;
 
@@ -32,7 +26,7 @@ public class InputTest {
         inputParser.parseInput(input);
     }
 
-    @Test//(expectedExceptions = RuntimeException.class)
+    @Test(expectedExceptions = RuntimeException.class)
     public void whenInputHasInvalidNumberOfProductInformation(){
         String input = "1\nProduct1 H H S";
         inputParser.parseInput(input);
@@ -46,8 +40,8 @@ public class InputTest {
         System.out.println();
     }
 
-    @Test//(expectedExceptions = RuntimeException.class)
-    public void whenInputHasInvalidNumberOfVendorEntries(Exception e){
+    @Test(expectedExceptions = RuntimeException.class)
+    public void whenInputHasInvalidNumberOfVendorEntries(){
         String input = "1\nProduct1 H L\na";
         inputParser.parseInput(input);
     }
@@ -59,7 +53,7 @@ public class InputTest {
         inputParser.parseInput(input);
     }
 
-    @Test(expectedExceptions = RuntimeException.class)
+    @Test(expectedExceptions = NumberFormatException.class)
     public void whenInputHasInvalidVendorEntriesInformation(){
         String input = "1\nProduct1 H L\n1\nflashdrive X abc";
         inputParser.parseInput(input);
@@ -67,12 +61,10 @@ public class InputTest {
 
     @Test
     public void whenInputHas1ProductAnd1VendorEntry(){
-        String input = "1\nProduct1 H L\n1\nflashdrive X 1.0";
-        Set<Vendor> vendors=inputParser.parseInput(input);
-      //  assertEquals(true, ProductList.getProducts().size()>0);
-        //assertEquals(true, vendors.size()>0);
-
-
+        String input = "1\nflashdrive H L\n1\nflashdrive X 1.0";
+        List<PriceQuotation> priceQuotations =inputParser.parseInput(input);
+        assertEquals(true, ProductList.getProducts().size()>0);
+        assertEquals(true, priceQuotations.size()>0);
     }
 
 
