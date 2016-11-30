@@ -25,12 +25,12 @@
       <file leaf-file-name="InputParserImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/InputParserImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="55" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="55" />
+            <state relative-caret-position="203">
+              <caret line="75" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#339#348#0" expanded="true" />
-                <element signature="e#828#839#0" expanded="true" />
+                <element signature="e#406#415#0" expanded="true" />
+                <element signature="e#905#916#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/PriceGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="12" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,14 +48,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PriceGeneratorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PriceGeneratorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/service/PriceGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="98" column="63" selection-start-line="98" selection-start-column="63" selection-end-line="98" selection-end-column="63" />
+            <state relative-caret-position="-1115">
+              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceGeneratorTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceGeneratorTest2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceGeneratorTest3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,13 +93,13 @@
       <file leaf-file-name="PriceGeneratorImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/PriceGeneratorImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            <state relative-caret-position="221">
+              <caret line="28" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#489#497#0" expanded="true" />
-                <element signature="e#2531#2539#0" expanded="true" />
-                <element signature="e#3172#3189#0" expanded="true" />
+                <element signature="e#492#500#0" expanded="true" />
+                <element signature="e#2605#2613#0" expanded="true" />
+                <element signature="e#3264#3281#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/InputParser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="118">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <caret line="10" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +120,11 @@
       <file leaf-file-name="InputParserTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/service/InputParserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="72" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/SalesData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="11" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,15 +165,21 @@
         <option value="$PROJECT_DIR$/src/main/java/processEngine/domain/ProductList.java" />
         <option value="$PROJECT_DIR$/src/main/java/processEngine/domain/PriceQuotations.java" />
         <option value="$PROJECT_DIR$/src/main/java/processEngine/domain/PriceQuotation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/processEngine/domain/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/processEngine/domain/SalesData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/input/InputTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/processEngine/domain/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/processEngine/service/impl/InputParserImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/processEngine/service/impl/PriceGeneratorImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/processEngine/service/InputParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/processEngine/service/PriceGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/processEngine/service/impl/InputParserImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/processEngine/input/InputTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/processEngine/service/InputParserTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/processEngine/service/impl/PriceGeneratorImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/processEngine/service/PriceGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/service/PriceGeneratorTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/service/PriceGeneratorTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/service/PriceGeneratorTest3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest3.java" />
       </list>
     </option>
   </component>
@@ -204,136 +241,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="processEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="processEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PriceEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="processEngine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -352,15 +259,18 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="processEngine.service" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="processEngine.service" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PriceGeneratorTest">
-    <configuration default="false" name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithHighDemandLowSupply" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.processEngine.serviceTrial">
+    <configuration default="false" name="PriceGeneratorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="processEngine.service.*" />
+          <option name="PATTERN" value="processEngine.serviceTrial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,7 +280,40 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="processEngine.service" />
       <option name="MAIN_CLASS_NAME" value="processEngine.service.PriceGeneratorTest" />
-      <option name="METHOD_NAME" value="whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithHighDemandLowSupply" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="InputParserTest.whenInputHas1ProductAnd1SalesDataEntry" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="processEngine.serviceTrial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="priceEngine" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="processEngine.service" />
+      <option name="MAIN_CLASS_NAME" value="processEngine.service.InputParserTest" />
+      <option name="METHOD_NAME" value="whenInputHas1ProductAnd1SalesDataEntry" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -390,10 +333,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGiven" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="processEngine.service.*" />
+          <option name="PATTERN" value="processEngine.serviceTrial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,40 +346,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="processEngine.service" />
       <option name="MAIN_CLASS_NAME" value="processEngine.service.PriceGeneratorTest" />
-      <option name="METHOD_NAME" value="whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="processEngine.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="priceEngine" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="processEngine.service" />
-      <option name="MAIN_CLASS_NAME" value="processEngine.service.PriceGeneratorTest" />
-      <option name="METHOD_NAME" value="whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" />
+      <option name="METHOD_NAME" value="whenOneProductAndManySalesDataIsGiven" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -459,7 +369,7 @@
     <configuration default="false" name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="processEngine.service.*" />
+          <option name="PATTERN" value="processEngine.serviceTrial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -489,10 +399,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="PriceGeneratorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="processEngine.serviceTrial" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="processEngine.service.*" />
+          <option name="PATTERN" value="processEngine.serviceTrial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -500,11 +410,11 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="processEngine.service" />
-      <option name="MAIN_CLASS_NAME" value="processEngine.service.PriceGeneratorTest" />
+      <option name="PACKAGE_NAME" value="processEngine.serviceTrial" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -937,19 +847,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithHighDemandLowSupply" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.InputParserTest.whenInputHas1ProductAnd1SalesDataEntry" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGiven" />
       <item index="3" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.processEngine.serviceTrial" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.processEngine.serviceTrial" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithHighDemandLowSupply" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.PriceGeneratorTest.whenOneProductAndManySalesDataIsGiven" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.InputParserTest.whenInputHas1ProductAnd1SalesDataEntry" />
       </list>
     </recent_temporary>
   </component>
@@ -965,44 +875,44 @@
       <updated>1480475156970</updated>
       <workItem from="1480475161124" duration="4510000" />
       <workItem from="1480507752126" duration="18000" />
-      <workItem from="1480507843260" duration="12205000" />
+      <workItem from="1480507843260" duration="13047000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PriceGeneratorTest - 2016.11.30 at 23h 01m 47s.xml">
+    <history-entry file="PriceGeneratorTest - 2016.11.30 at 23h 12m 44s.xml">
       <configuration name="PriceGeneratorTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply - 2016.11.30 at 22h 59m 37s.xml">
+    <history-entry file="PriceGeneratorTest - 2016.11.30 at 23h 12m 57s.xml">
+      <configuration name="PriceGeneratorTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PriceGeneratorTest - 2016.11.30 at 23h 13m 03s.xml">
+      <configuration name="PriceGeneratorTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply - 2016.11.30 at 23h 07m 59s.xml">
       <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply - 2016.11.30 at 23h 00m 28s.xml">
+    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply - 2016.11.30 at 23h 08m 10s.xml">
       <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply - 2016.11.30 at 22h 57m 56s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply" configurationId="TestNG" />
+    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply - 2016.11.30 at 23h 08m 48s.xml">
+      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithDemandAndSupply" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply - 2016.11.30 at 22h 58m 19s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandHighSupply" configurationId="TestNG" />
+    <history-entry file="processEngine_serviceTrial - 2016.11.30 at 23h 15m 06s.xml">
+      <configuration name="processEngine.serviceTrial" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply - 2016.11.30 at 22h 58m 36s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" configurationId="TestNG" />
+    <history-entry file="processEngine_serviceTrial - 2016.11.30 at 23h 15m 21s.xml">
+      <configuration name="processEngine.serviceTrial" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply - 2016.11.30 at 22h 59m 03s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" configurationId="TestNG" />
+    <history-entry file="processEngine_serviceTrial - 2016.11.30 at 23h 15m 32s.xml">
+      <configuration name="processEngine.serviceTrial" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply - 2016.11.30 at 22h 59m 14s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply - 2016.11.30 at 22h 59m 32s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PriceGeneratorTest_whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply - 2016.11.30 at 23h 01m 29s.xml">
-      <configuration name="PriceGeneratorTest.whenOneProductAndManySalesDataIsGivenWithMultiplePriceMultipleFrequenciesWithLowDemandLowSupply" configurationId="TestNG" />
+    <history-entry file="processEngine_serviceTrial - 2016.11.30 at 23h 15m 39s.xml">
+      <configuration name="processEngine.serviceTrial" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16733000" />
+    <option name="totallyTimeSpent" value="17575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1015,7 +925,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1100,32 +1010,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/Product.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/ProductList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/InputParserImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/Product.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/ProductList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/PriceQuotation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/Vendor.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/InputParserImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="55" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#348#0" expanded="true" />
-            <element signature="e#828#839#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/InputParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/input/InputTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1134,18 +1021,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/SalesData.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/service/InputParserTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/domain/SalesData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/InputParserImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="75" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#415#0" expanded="true" />
+            <element signature="e#905#916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/PriceGeneratorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#492#500#0" expanded="true" />
+            <element signature="e#2605#2613#0" expanded="true" />
+            <element signature="e#3264#3281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/InputParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="10" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1155,33 +1075,55 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/PriceGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/processEngine/service/impl/PriceGeneratorImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/service/InputParserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="300">
+          <caret line="72" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#489#497#0" expanded="true" />
-            <element signature="e#2531#2539#0" expanded="true" />
-            <element signature="e#3172#3189#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/service/PriceGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="63" selection-start-line="98" selection-start-column="63" selection-end-line="98" selection-end-column="63" />
+        <state relative-caret-position="-1115">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/processEngine/serviceTrial/PriceGeneratorTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

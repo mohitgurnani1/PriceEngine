@@ -12,6 +12,7 @@ public interface InputParser {
 
 
     public List<Product> getProductsFromInput(String input);
+
     public List<SalesData> getSalesDataFromInput(String input);
 
 }

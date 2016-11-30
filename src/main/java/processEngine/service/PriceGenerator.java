@@ -10,8 +10,8 @@ import java.util.List;
  */
 public interface PriceGenerator {
 
-    public double generatePriceForProduct(Product product, List<SalesData> salesDataList );
+    public double generatePriceForProduct(Product product, List<SalesData> salesDataList);
 
-    public List<Double> generatePriceForAllProducts(List<Product> products, List<SalesData> salesDataList );
+    public List<Double> generatePriceForAllProducts(List<Product> products, List<SalesData> salesDataList);
 
 }
